@@ -1,18 +1,18 @@
 ---
 title: "Fri 11 August 2023: Antidote to Oppenheimer"
 subtitle: "Friday 11 August 2023"
-description: "Why not settle in for a free online Friday screening night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
-date: 2023-08-10T10:00:00+01:00
+description: ""
+date: 2023-08-11T10:00:00+01:00
 # tldr: 
 draft: false
 tags: ["surprise", "screening", "party", "music"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+![A still from Hiroshima](/images/hiroshima-1953.jpg)
 
 DETAILS:
 
-**Sneak surprise screening: Antidote to Oppenheimer**   
+**Theme: Antidote to Oppenheimer**   
 11 August 2023  
 9.30 PM CEST/CAT  
 Duration: ca. 1 hour 45 mins  

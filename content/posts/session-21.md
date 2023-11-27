@@ -1,23 +1,22 @@
 ---
-title: "Fri 29 September 2023: Sneak surprise film"
-subtitle: "Friday 29 September 2023"
-description: "Why not settle in for a free online Friday screening night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
-date: 2023-09-14T10:00:00+01:00
+title: "Fri 27 October 2023: Protesting communication blackout in Gaza"
+subtitle: "Friday 27 October 2023"
+description: "The provolol admin team decides to step out onto the street and join a protest against the communication blackout that the terrorist apartheid state of Israel has imposed upon Gaza, Palestine"
+date: 2023-10-27T10:00:00+01:00
 # tldr: 
-draft: true
-tags: ["surprise", "screening"]
+draft: false
+tags: ["protest", "Palestine", "Free Palestine", "Amsterdam"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+<!-- ![Bubbly party image](/images/surprise-party.jpg) -->
 
-DETAILS:
+We had planned to screen three pieces of Palestinian cinema tonight. However, it's emerged that [Israel has destroyed all phone and internet connections in Gaza](https://www.theguardian.com/world/2023/oct/27/gaza-internet-cutoff-israel-siege-casualties), causing a full communication blackout. This is atrocious. Cutting communication will leave people in Palestine with even fewer options to report on their situation and the war crimes that Israel is committing to the rest of the world. 
 
-**Sneak surprise screening**   
-~~8~~ 15 September 2023  
-9.30 PM CEST/CAT  
-Duration: TBA
-Watch party: TBA
+As such, your dutiful provolol admin team decided that instead of running our pre-planned programme, they'll go out onto the street tonight and join a protest. They'll try to do a live radio stream from the protest.
 
-*you'll find out which tape on the day* 
+Let's postpone the Palestinian film programme to next week, 3 November 2023.
 
-b.y.o.b. + b.y.o 🍕
+<!-- 
+Update: Here's the (lightly edited) stream of the event, from Amsterdam Central Station. -->
+
+b.y.o.🇵🇸 + b.y.o.✊

@@ -1,14 +1,14 @@
 ---
 title: "Fri 15 September 2023: Horticulture"
 subtitle: "Friday 15 September 2023"
-description: "Why not settle in for a free online Friday screening night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
-date: 2023-08-25T10:00:00+01:00
+description: ""
+date: 2023-09-25T10:00:00+01:00
 # tldr: 
 draft: false
-tags: ["surprise", "screening", "garden"]
+tags: ["Derek Jarman", "garden"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+![A still from Derek Jarman's 'The Garden'. Two people in pink suits hold hands, walking, surrounded by ballons, decorations, people celebrating and making music.](/images/jarman-garden.jpg)
 
 DETAILS:
 
