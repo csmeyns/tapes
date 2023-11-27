@@ -8,16 +8,10 @@ draft: true
 tags: ["music", "dj", "mixtape"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+![Flyer for SETS @ provolol](https://sets.provo.lol/media/dancing-sonic.gif)
 
 DETAILS:
 
-**Sneak surprise film**   
-30 June 2023  
-9.30 PM CEST/CAT  
-Duration: TBA  
-Music party: Peertube link TBA
-
-*you'll find out which tunes on the day* 
+Check out: [Set @ Provolol](https://sets.provo.lol/#sets3) for all set details. 
 
 b.y.o.b. + b.y.o 🎶
