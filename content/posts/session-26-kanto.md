@@ -22,6 +22,6 @@ It's a hundred years this year since the [Great Kantō earthquake of 1923](https
 
 It's also a hundred years since, in the earthquake's aftermath, people in the region committed the [Kantō Massacre](https://en.wikipedia.org/wiki/Kant%C5%8D_Massacre). During the massacre, vigilantes---spurred on by rumours, racist hatred, and aided by police and government authorities---murdered an estimated 6,000 people of Korean descent, as well as non-Korean Japanese communists, socialists, and anarchists.
 
-In tonight's screening, you'll get archival footage from the destruction at the time, and will be ableto do some digging into historical awareness and responsibility around the massacre.
+In tonight's screening, you'll get archival footage from the destruction at the time, and will be able to do some digging into historical awareness and responsibility around the massacre.
 
 b.y.o.b. + b.y.o. ✌️
