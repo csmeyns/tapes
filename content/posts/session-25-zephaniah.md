@@ -20,6 +20,4 @@ Watch party: https://stream.provo.lol
 
 Let's celebrate the life and work of the legendary poet and activist [Benjamin Zephaniah](https://benjaminzephaniah.com/) (1958–2023).
 
-*you'll find out which tapes on the day* 
-
 b.y.o.b. + b.y.o. ✊

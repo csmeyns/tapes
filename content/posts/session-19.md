@@ -18,6 +18,6 @@ DETAILS:
 Duration: 88 minutes  
 Watch party: https://twitch.tv/provolol
 
-*you'll find out which tape on the day* 
+- *The Garden* (1990), directed by Derek Jarman.
 
 b.y.o.b. + b.y.o 🌱
